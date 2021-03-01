@@ -10,7 +10,7 @@ pipenv
 
 ## Suggested installation
 
-ln -s {FULL PATH to kattis-cli} ~/.local/bin/kattis-cli
+`ln -s {FULL PATH to kattis-cli} ~/.local/bin/kattis-cli`
 
 
 ## About Kattis
