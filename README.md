@@ -1,5 +1,5 @@
 # kattis-cli
-A CLI for automatic Kattis tasks
+A CLI for automating Kattis tasks
 
 ## About Kattis
 
