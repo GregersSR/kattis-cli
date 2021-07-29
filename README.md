@@ -4,9 +4,9 @@ Please be aware that this has been built for Linux. There might be OS X support,
 
 ## Requirements
 
-Python 3
-pip
-pipenv
+- Python 3
+- pip
+- pipenv
 
 ## Suggested installation
 
